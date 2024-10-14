@@ -1,1 +1,2 @@
-Python project for beginners- Analyze Diwali sales data to improve customer experience and sales.
+Python project for EDA - Analyze Diwali sales data to improve customer experience and sales.
+if any problem occurs you can download the zip file to see all the content of the project manually.
